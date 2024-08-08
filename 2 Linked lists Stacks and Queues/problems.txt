@@ -1,0 +1,20 @@
+Linked List:
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/ (Punteros)
+https://leetcode.com/problems/linked-list-cycle/description/ (Floyd's Tortoise and Hare algorithm)
+https://leetcode.com/problems/remove-linked-list-elements/description/ (Punteros)
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/ (Punteros)
+https://leetcode.com/problems/middle-of-the-linked-list/description/ (Punteros)
+
+Stack:
+
+https://leetcode.com/problems/baseball-game/description/ (Simulacion)
+https://leetcode.com/problems/backspace-string-compare/description/ (Simulacion)
+https://leetcode.com/problems/remove-outermost-parentheses/description/ (Parentesis)
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/ (Simulacion)
+
+Queue:
+
+https://leetcode.com/problems/number-of-recent-calls/description/ (Aprovechar que t es creciente)
+https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/ (Simulacion)
+https://leetcode.com/problems/time-needed-to-buy-tickets/description/ (Simulacion)

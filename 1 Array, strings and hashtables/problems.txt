@@ -1,0 +1,22 @@
+Arrays:
+
+https://leetcode.com/problems/single-number/description/ (Todos se repiten 2 veces excepto 1. Presentar Bitwise XOR o con sort)
+https://leetcode.com/problems/contains-duplicate/description/ (Verificar si hay algun repetido. Usar la idea con sortings)
+https://leetcode.com/problems/summary-ranges/description/ (Two pointers)
+https://leetcode.com/problems/plus-one/description/ (Big Integer (x -> x + 1))
+
+Strings:
+
+https://leetcode.com/problems/length-of-last-word/description/ (Split en Python, implementación natural en C++)
+https://leetcode.com/problems/valid-palindrome/description/ (Validación de palíndromo)
+https://leetcode.com/problems/valid-anagram/description/ (Validar anagramas)
+https://leetcode.com/problems/is-subsequence/description/ (Validar si s es subsecuencia de t)
+https://leetcode.com/problems/longest-common-prefix/description/ (LCP con fuerza bruta)
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/ (Naive pattern matching)
+
+Hash Tables:
+
+https://leetcode.com/problems/single-number/description/ (Todos se repiten 2 veces excepto 1)
+https://leetcode.com/problems/majority-element/description/ (Puede usarse hash table o presentar el Boyer-Moore majority vote algorithm)
+https://leetcode.com/problems/contains-duplicate/description/ (Verificar si hay algun repetido)
+https://leetcode.com/problems/contains-duplicate-ii/description/ (Verificar si hay algun par de indices repetidos a una distancia <= k)
